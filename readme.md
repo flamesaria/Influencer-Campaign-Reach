@@ -20,7 +20,6 @@ This project analyzes survey data from 1000 respondents about their exposure to 
 - Python 3.7+
 - pandas
 - matplotlib
-- numpy
 
 ## Contact
 For questions or collaboration, please contact [auchynnikdarya18@gmail.com]

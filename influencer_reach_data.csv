@@ -1,0 +1,1001 @@
+;Zummi;Gruffi;Grammi;Tummi;Sunni;Cubbi;Sir Thornberry;Gusto;Chummi;Sir Gallant
+0;No;No;No;Yes;Yes;No;Yes;No;Yes;Yes
+1;No;No;No;No;Yes;Yes;Yes;No;Yes;No
+2;Yes;No;Yes;No;No;No;No;No;No;No
+3;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;No
+4;No;No;Yes;No;No;Yes;No;Yes;No;No
+5;No;No;Yes;No;Yes;No;Yes;No;No;Yes
+6;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+7;No;Yes;No;No;Yes;No;No;No;Yes;Yes
+8;No;No;No;Yes;Yes;Yes;Yes;No;Yes;No
+9;Yes;No;No;Yes;No;No;Yes;No;No;Yes
+10;Yes;No;Yes;No;Yes;Yes;Yes;No;Yes;Yes
+11;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No;No
+12;Yes;Yes;Haven't;No;No;Yes;Seen;Yes;No;No
+13;Yes;No;Yes;No;Yes;No;No;Yes;Yes;No
+14;Yes;Yes;Haven't;Saw;Not seen;Yes;No;No;Yes;No
+15;Yes;No;Yes;Seen;Yes;Yes;No;Yes;Yes;No
+16;Yes;No;No;Yes;No;Yes;No;No;Yes;Yes
+17;No;Yes;No;No;No;Not seen;Yes;Yes;No;No
+18;Yes;Yes;Ye s;No;Yes;No;No;Yes;No;Ye s
+19;No;No;No;No;No;No;Yes;No;No;Yes
+20;Seen;No;Yes;Yes;Yes;Yes;Not seen;No;Yes;No
+21;Yes;Yes;No;No;No;Yes;Saw;No;Yes;No
+22;Yes;No;No;No;Yes;No;Yes;No;Yes;No
+23;No;No;No;No;Yes;Yes;Saw;No;Yes;No
+24;No;Yes;Yes;Seen;Not seen;Yes;No;No;Yes;No
+25;Yes;Ye s;No;Yes;No;Yes;Yes;Yes;Yes;Yes
+26;Yes;No;Saw;Yes;Yes;Yes;Yes;No;No;No
+27;Yes;No;No;Yes;No;Yes;No;Seen;No;Yes
+28;No;No;No;Not seen;No;No;No;No;Yes;Haven't
+29;No;Yes;Yes;No;Yes;No;Yes;No;Yes;Saw
+30;Yes;No;Yes;Not seen;Yes;No;No;Yes;No;Yes
+31;No;No;No;Yes;No;No;No;No;Yes;No
+32;Yes;Haven't;No;Yes;Yes;Yes;No;No;Yes;No
+33;Yes;Yes;Not seen;No;Yes;No;No;No;No;No
+34;Yes;No;Yes;Ye s;nan;No;Yes;Yes;No;No
+35;Yes;Yes;No;Yes;No;No;Haven't;Yes;No;No
+36;Yes;Yes;No;No;No;Yes;No;No;No;No
+37;No;Yes;Yes;No;Yes;Haven't;Yes;No;No;Yes
+38;Saw;Yes;No;Yes;No;No;No;No;Seen;No
+39;Yes;No;No;No;Yes;Yes;Yes;No;No;Yes
+40;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Haven't;Yes
+41;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No
+42;Yes;Yes;Yes;Yes;No;Not seen;nan;No;No;Saw
+43;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No
+44;No;No;Yes;No;No;No;No;Yes;No;Yes
+45;No;No;No;No;Yes;Yes;No;Yes;No;No
+46;No;No;Yes;No;Not seen;Yes;Yes;No;No;Yes
+47;Yes;No;Yes;No;Saw;No;No;Yes;Yes;No
+48;No;Not seen;Yes;Yes;Yes;Not seen;No;Yes;Yes;Yes
+49;No;Yes;No;Yes;No;No;No;Yes;Yes;Not seen
+50;No;No;Yes;No;No;No;Yes;No;No;No
+51;Yes;No;No;No;Yes;Yes;Not seen;Yes;Yes;No
+52;No;Yes;Not seen;Yes;No;No;No;No;Yes;No
+53;No;No;No;No;No;Yes;Yes;No;No;No
+54;Yes;Yes;Yes;No;Yes;Yes;Yes;No;Yes;Yes
+55;Yes;No;No;Yes;Yes;No;Yes;No;Yes;Yes
+56;No;Yes;No;No;Yes;Yes;Haven't;No;Yes;No
+57;Yes;Ye s;No;No;Seen;Not seen;Yes;No;No;Not seen
+58;No;Saw;Yes;No;No;No;No;No;nan;No
+59;No;Not seen;Yes;Yes;Not seen;No;No;No;Yes;No
+60;Yes;No;No;Yes;Yes;Yes;Yes;No;No;No
+61;No;No;No;Yes;No;No;No;Yes;Not seen;No
+62;No;No;No;Yes;Yes;No;Yes;Yes;No;No
+63;Yes;No;Yes;Saw;No;Yes;No;Yes;No;No
+64;Yes;Yes;No;Seen;No;No;Yes;No;No;No
+65;No;No;No;Yes;Yes;No;No;No;Yes;Yes
+66;Yes;Yes;Seen;Yes;No;Yes;No;Yes;Yes;No
+67;No;No;Yes;Seen;No;No;No;Yes;No;No
+68;Yes;Yes;No;No;Yes;No;No;Yes;Seen;Seen
+69;Haven't;No;No;No;Yes;Ye s;No;No;No;Yes
+70;No;Yes;Yes;No;Yes;No;No;Yes;Yes;Not seen
+71;No;No;No;Yes;Not seen;Not seen;No;Yes;No;No
+72;Not seen;Not seen;No;No;Yes;No;No;Yes;Yes;No
+73;Yes;No;Yes;No;Seen;Yes;No;No;No;No
+74;Not seen;No;No;Yes;Yes;No;Yes;No;No;Seen
+75;Yes;No;Yes;No;nan;No;Yes;No;Saw;Yes
+76;No;Yes;No;No;No;Yes;No;No;No;Seen
+77;No;Yes;Yes;Yes;No;No;Yes;Yes;No;No
+78;No;No;Yes;No;No;Yes;No;No;No;No
+79;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes
+80;Saw;Yes;Yes;Yes;Yes;No;Ye s;No;No;No
+81;Yes;Yes;Yes;No;Yes;No;No;No;Yes;No
+82;Seen;Seen;Yes;No;Yes;Yes;Yes;No;Yes;Yes
+83;Yes;No;Not seen;No;Yes;Yes;Yes;No;No;No
+84;Yes;No;Yes;Yes;No;Yes;No;No;No;Yes
+85;Yes;No;No;No;Yes;Saw;Seen;Yes;No;No
+86;Yes;No;Yes;Yes;Yes;No;nan;No;No;No
+87;No;No;nan;nan;Yes;No;No;Yes;Yes;No
+88;Ye s;No;No;No;No;No;Yes;Yes;No;No
+89;Not seen;No;No;No;Seen;Yes;No;No;Yes;Yes
+90;Yes;No;Yes;No;Seen;Yes;No;No;No;No
+91;Ye s;No;No;No;Yes;No;Yes;Yes;No;No
+92;No;No;No;No;No;No;Saw;No;No;Yes
+93;No;No;No;Yes;Yes;No;Yes;No;No;Yes
+94;No;Yes;Yes;No;Yes;No;No;No;Yes;No
+95;No;No;Yes;No;Yes;Yes;No;Seen;Saw;No
+96;Seen;No;No;No;No;Haven't;Yes;Seen;No;No
+97;Yes;Yes;Yes;Haven't;Yes;No;No;Yes;No;No
+98;No;Yes;No;No;No;No;No;Yes;Yes;No
+99;Yes;No;No;No;No;Yes;No;Yes;Yes;No
+100;Ye s;Yes;No;Yes;No;No;No;No;Haven't;Yes
+101;No;No;No;No;No;No;Yes;Yes;No;Seen
+102;Yes;No;No;No;No;Yes;nan;No;Yes;No
+103;Seen;Yes;Yes;No;No;No;No;No;No;No
+104;Ye s;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+105;Yes;No;No;No;No;Yes;Yes;Yes;Yes;No
+106;Yes;No;No;Yes;No;No;No;No;Not seen;Yes
+107;No;Yes;No;Yes;No;Yes;No;Ye s;No;Yes
+108;No;No;Yes;Not seen;Yes;Yes;Yes;Yes;Yes;No
+109;Yes;Yes;Yes;No;Yes;Yes;No;Seen;Ye s;Yes
+110;No;No;Not seen;No;No;Yes;Yes;Yes;Not seen;Yes
+111;No;Yes;No;Yes;Seen;No;No;No;Yes;Yes
+112;No;Ye s;No;No;Yes;No;Yes;No;No;No
+113;Yes;No;No;Yes;Yes;Yes;Yes;Yes;No;No
+114;Yes;Yes;No;Yes;Seen;No;No;No;No;No
+115;Yes;No;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+116;No;Yes;Yes;Yes;Yes;No;No;No;No;Yes
+117;No;Seen;Yes;Yes;No;Yes;Yes;Seen;No;Yes
+118;No;Ye s;Yes;Yes;No;No;No;Yes;Yes;No
+119;Seen;Yes;Yes;No;No;No;No;Not seen;Seen;No
+120;Yes;No;Yes;Yes;Yes;No;No;No;No;Seen
+121;Seen;Seen;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+122;No;No;Yes;Yes;No;Yes;nan;No;No;Yes
+123;Yes;No;Yes;No;Yes;No;No;Yes;Yes;Yes
+124;Not seen;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+125;No;No;Yes;Yes;No;Yes;No;Yes;Yes;No
+126;No;No;No;No;No;Yes;No;Yes;No;Yes
+127;Yes;Yes;Yes;Seen;No;Yes;Ye s;Yes;No;No
+128;No;No;No;No;No;No;Not seen;Yes;No;Yes
+129;Yes;No;Yes;No;No;Yes;Yes;Yes;No;No
+130;Yes;No;No;No;Yes;No;No;No;Yes;Yes
+131;Yes;No;Yes;Yes;No;No;Yes;No;No;No
+132;No;Ye s;No;Yes;Yes;No;No;Yes;No;No
+133;Yes;No;Yes;Yes;Yes;No;No;No;No;Yes
+134;Yes;No;No;No;Yes;Yes;Seen;Yes;Yes;Yes
+135;Seen;Yes;No;No;Yes;No;No;Not seen;Yes;Not seen
+136;No;No;Yes;Yes;No;Yes;No;No;Yes;Yes
+137;No;No;Yes;No;No;No;No;No;No;No
+138;Yes;No;No;No;Yes;No;Yes;Yes;Yes;No
+139;Yes;Yes;Not seen;Seen;No;Haven't;Yes;No;No;Yes
+140;No;Yes;Yes;Yes;Yes;Yes;No;No;No;Yes
+141;Haven't;No;No;No;No;Yes;No;No;No;No
+142;Yes;Yes;No;Yes;Ye s;Yes;Yes;No;No;No
+143;Yes;Yes;No;Yes;No;Yes;No;No;Ye s;Yes
+144;No;Seen;Yes;Yes;No;No;Not seen;Seen;No;No
+145;Yes;No;No;Yes;Yes;No;Yes;No;No;No
+146;Yes;Yes;Yes;No;Yes;Saw;Yes;No;Yes;No
+147;Yes;No;No;Yes;No;Yes;No;No;No;No
+148;Yes;Yes;Yes;Yes;Not seen;Yes;No;No;No;Yes
+149;Yes;No;No;Yes;Yes;Yes;No;No;No;Yes
+150;No;Yes;Seen;No;Yes;Yes;No;Yes;No;Yes
+151;No;No;No;Yes;No;Yes;No;Seen;No;Not seen
+152;No;Yes;No;No;No;Yes;Yes;No;Yes;No
+153;No;No;No;No;Yes;Yes;No;Ye s;No;No
+154;Yes;No;No;No;No;No;No;No;No;nan
+155;Yes;No;Yes;Yes;No;Yes;No;Yes;No;Yes
+156;No;No;No;Yes;nan;Yes;No;No;No;No
+157;No;Yes;Yes;No;Yes;Yes;No;No;No;Seen
+158;No;No;Yes;No;Yes;Yes;No;No;No;Yes
+159;Seen;Ye s;No;No;Yes;No;No;No;No;No
+160;No;No;No;No;Yes;Seen;Saw;Yes;No;Yes
+161;Seen;No;Yes;No;Yes;Seen;Yes;No;Yes;No
+162;No;No;No;Seen;No;Yes;Yes;Yes;No;No
+163;No;Yes;Yes;No;No;No;Yes;No;Yes;No
+164;Yes;Yes;No;No;Yes;No;No;Yes;Yes;Ye s
+165;Yes;Yes;No;No;Not seen;No;Yes;No;No;Yes
+166;No;Yes;No;Yes;No;Yes;Ye s;No;No;Yes
+167;No;No;No;No;Yes;No;Seen;No;No;Yes
+168;No;Yes;Yes;Yes;No;No;Saw;Yes;Yes;No
+169;No;No;Saw;No;Yes;Yes;No;Yes;No;No
+170;Yes;No;No;No;No;Yes;No;No;No;Yes
+171;Yes;No;Seen;Yes;Yes;No;No;No;Yes;No
+172;No;Ye s;No;Yes;No;Yes;Yes;Yes;nan;No
+173;Yes;No;Saw;Yes;No;Yes;No;No;No;No
+174;No;No;No;No;No;Yes;No;Yes;Yes;Yes
+175;No;Yes;Yes;Yes;Yes;Yes;No;Yes;No;No
+176;Yes;No;No;Haven't;No;Yes;No;Yes;No;Yes
+177;Yes;No;No;Not seen;Not seen;No;No;No;No;No
+178;No;Yes;Yes;Ye s;Seen;Yes;No;Yes;No;No
+179;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No
+180;Yes;Yes;No;Yes;No;No;No;Yes;No;No
+181;Yes;No;Seen;No;Yes;Yes;No;Yes;Yes;Yes
+182;Yes;No;Yes;Yes;No;Yes;Yes;No;No;No
+183;No;Yes;No;No;Yes;Yes;Yes;No;Yes;Yes
+184;Yes;No;No;Not seen;No;No;No;No;Yes;Yes
+185;Yes;Yes;No;Yes;Yes;Saw;No;Yes;No;Yes
+186;No;Yes;Yes;Yes;No;Yes;No;No;Yes;No
+187;Yes;Yes;No;Yes;No;No;No;No;nan;No
+188;No;No;No;No;No;Seen;No;Seen;No;No
+189;No;No;No;Yes;Yes;Yes;No;Yes;Yes;Yes
+190;No;Yes;Yes;No;Yes;No;No;Yes;No;No
+191;Yes;Yes;No;Seen;Yes;Yes;Yes;No;No;No
+192;Yes;Yes;No;No;No;No;Yes;Yes;Ye s;Yes
+193;No;No;No;Seen;No;Yes;Haven't;Yes;Yes;Yes
+194;No;Yes;No;Yes;No;Seen;Yes;No;Yes;No
+195;No;Yes;Yes;No;No;No;No;Seen;Haven't;Yes
+196;No;Yes;Yes;No;Yes;Haven't;No;Yes;No;No
+197;Seen;No;Yes;Yes;No;No;No;Yes;No;Yes
+198;No;Seen;No;Yes;No;Yes;No;No;No;No
+199;No;No;No;No;No;Seen;Seen;Yes;No;No
+200;No;No;Yes;Yes;Yes;Yes;Yes;No;No;No
+201;Yes;No;No;Not seen;No;Yes;No;Yes;No;No
+202;Yes;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+203;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No
+204;Yes;No;Ye s;Yes;No;Yes;Not seen;Yes;Yes;No
+205;No;No;No;No;Yes;No;Yes;Yes;Yes;No
+206;No;Not seen;Saw;Yes;No;No;No;No;No;No
+207;Yes;No;Yes;No;Ye s;Yes;Not seen;No;Yes;Seen
+208;Yes;No;No;Yes;No;No;No;Yes;No;Yes
+209;No;Yes;Seen;No;No;No;No;Yes;Yes;No
+210;No;No;No;Haven't;Ye s;No;No;No;No;No
+211;No;Yes;nan;No;No;No;No;Yes;No;Yes
+212;No;Yes;Yes;Yes;No;No;No;Yes;Yes;No
+213;Yes;Yes;No;No;No;Yes;Yes;No;No;Yes
+214;Yes;Yes;No;No;No;Yes;No;No;Yes;Yes
+215;Yes;Yes;Yes;Yes;Yes;nan;No;No;Yes;Yes
+216;No;No;Yes;No;Seen;Yes;Yes;Yes;No;No
+217;No;No;Yes;Yes;No;No;No;Yes;Yes;No
+218;Yes;Yes;No;No;No;Yes;Yes;No;No;Yes
+219;Yes;No;No;Yes;No;No;No;No;Yes;Yes
+220;Yes;Yes;No;Yes;No;Yes;No;Yes;No;Yes
+221;No;Seen;Yes;Yes;No;Yes;No;Yes;Yes;No
+222;No;Yes;Yes;No;Yes;No;No;No;No;No
+223;No;Yes;Yes;No;No;Yes;Yes;No;No;No
+224;No;Yes;Not seen;No;Yes;Yes;No;nan;No;Yes
+225;Yes;Yes;No;Yes;Yes;No;Yes;No;No;No
+226;No;Yes;Yes;nan;No;No;No;No;Yes;No
+227;No;No;Not seen;No;nan;No;nan;No;No;Yes
+228;No;Yes;Yes;No;No;Ye s;Yes;No;Yes;Seen
+229;No;Yes;Yes;nan;No;No;No;Yes;Yes;Yes
+230;No;No;Yes;No;Yes;No;No;No;No;Yes
+231;No;No;No;Yes;Yes;Seen;No;No;No;Yes
+232;No;Yes;Yes;No;No;No;Yes;Yes;No;Not seen
+233;No;Seen;Yes;No;Yes;No;Yes;Yes;No;Yes
+234;Not seen;No;No;Seen;Yes;Yes;No;Yes;Yes;Yes
+235;No;Yes;No;No;No;No;No;No;No;Seen
+236;Yes;Yes;Yes;Not seen;Haven't;No;Yes;No;No;Yes
+237;Yes;No;No;Saw;Yes;No;Yes;No;No;Yes
+238;Yes;No;No;No;Yes;No;Yes;No;Saw;No
+239;No;No;No;No;No;Yes;Yes;No;Yes;Saw
+240;No;No;Seen;Yes;Yes;No;No;No;Yes;No
+241;Yes;Seen;Yes;Ye s;Saw;Yes;Yes;Yes;No;Yes
+242;No;nan;No;Yes;Yes;No;No;Yes;Yes;Yes
+243;No;Yes;No;No;No;No;No;Yes;No;Not seen
+244;No;No;No;No;Yes;Yes;No;Not seen;Yes;No
+245;Yes;No;Yes;No;Yes;Yes;Yes;No;Yes;Yes
+246;No;No;No;No;No;Yes;No;No;Seen;No
+247;No;Not seen;Seen;Yes;No;Yes;Yes;No;No;No
+248;No;No;Yes;No;No;Yes;No;Yes;No;Yes
+249;No;No;Yes;No;Yes;nan;No;Yes;No;Yes
+250;No;No;No;Yes;Yes;Yes;No;Yes;No;Yes
+251;No;No;No;Yes;No;Yes;No;Yes;No;No
+252;Not seen;Yes;No;Yes;Not seen;Yes;Yes;Yes;Yes;Yes
+253;Haven't;Yes;No;Yes;No;No;No;No;Yes;Yes
+254;No;No;No;No;No;Yes;Yes;Yes;Seen;No
+255;Haven't;No;No;Yes;No;Yes;Yes;Yes;No;Yes
+256;No;Yes;No;No;No;Yes;No;No;No;No
+257;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes
+258;Yes;No;No;No;Yes;No;Saw;Yes;No;No
+259;No;Yes;No;No;Yes;No;Yes;Yes;Yes;Yes
+260;Yes;No;No;No;Yes;Yes;No;Haven't;No;No
+261;No;No;No;Yes;No;Yes;Yes;No;Yes;Haven't
+262;Haven't;No;Yes;Ye s;No;Yes;No;No;No;Yes
+263;Yes;No;No;No;No;Yes;Yes;Yes;No;No
+264;Haven't;No;No;Yes;Yes;Yes;Yes;No;Seen;No
+265;No;No;Yes;No;Yes;Yes;Yes;nan;Yes;Yes
+266;Saw;Yes;No;Yes;No;Not seen;No;No;No;No
+267;No;nan;No;Yes;No;Yes;Yes;Yes;No;No
+268;No;Yes;No;Ye s;Yes;No;Not seen;Yes;Saw;Yes
+269;No;Yes;No;No;No;No;Yes;No;No;No
+270;No;Yes;No;Yes;No;No;No;No;No;No
+271;Yes;Yes;Haven't;Yes;No;No;Yes;Yes;No;No
+272;Yes;Ye s;Yes;Yes;No;No;No;No;No;Yes
+273;Yes;No;No;No;Ye s;Yes;No;No;Yes;Yes
+274;No;Seen;No;No;No;Yes;nan;No;Yes;No
+275;No;No;No;No;No;No;No;Yes;Yes;Yes
+276;Yes;Seen;Yes;Yes;Yes;No;No;Yes;nan;Yes
+277;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes
+278;Seen;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes
+279;No;Ye s;No;No;No;No;Yes;Seen;Yes;No
+280;No;No;No;No;No;Yes;No;No;nan;Seen
+281;Yes;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+282;No;No;Yes;Yes;Saw;Yes;Yes;No;Yes;No
+283;Yes;No;No;No;Yes;Yes;No;Yes;No;No
+284;Not seen;No;Yes;Yes;Saw;Seen;Yes;No;No;No
+285;nan;No;Yes;No;Yes;No;Yes;Yes;Yes;Yes
+286;Yes;No;No;Seen;No;Yes;Yes;No;No;Yes
+287;No;Yes;Yes;Yes;No;Yes;No;Yes;Yes;Yes
+288;No;No;Yes;No;No;Yes;Yes;Yes;No;Yes
+289;Yes;Yes;No;Yes;Yes;No;Yes;Haven't;Yes;No
+290;Yes;No;Not seen;Yes;No;No;No;Yes;Yes;No
+291;No;No;Yes;No;No;No;No;Seen;Yes;No
+292;Yes;No;No;No;Yes;Yes;No;Yes;Yes;No
+293;Yes;Yes;No;No;No;No;Yes;No;Yes;No
+294;No;Yes;Yes;No;No;No;No;No;Yes;Ye s
+295;No;No;No;No;No;No;Yes;No;Yes;Yes
+296;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No
+297;No;Yes;nan;Yes;Yes;Yes;No;No;No;Yes
+298;No;No;Yes;Yes;Yes;No;No;No;No;No
+299;Yes;Yes;Seen;Yes;No;Yes;nan;Yes;Yes;Yes
+300;No;Yes;Yes;No;Yes;No;Yes;No;Yes;No
+301;No;Yes;Yes;No;Not seen;No;Yes;Seen;No;No
+302;Yes;No;No;Haven't;Yes;Yes;Yes;No;No;No
+303;Yes;No;Saw;Yes;No;No;No;nan;Yes;Ye s
+304;No;Yes;Yes;No;No;Seen;Yes;Yes;No;Yes
+305;Yes;Yes;Yes;Yes;nan;Yes;Seen;No;Yes;No
+306;No;Yes;Yes;No;Yes;Not seen;Yes;No;Yes;No
+307;Yes;No;Yes;No;No;Yes;No;Yes;Yes;No
+308;No;No;No;No;Ye s;No;No;No;Yes;No
+309;No;No;No;No;No;nan;No;Yes;Yes;Ye s
+310;Yes;Seen;No;No;Yes;Yes;No;No;Yes;No
+311;Yes;Yes;No;No;No;No;Not seen;Haven't;Yes;Yes
+312;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No
+313;Yes;Seen;No;No;No;No;No;Yes;Saw;No
+314;Yes;Yes;Yes;Yes;Yes;No;Yes;No;Not seen;Yes
+315;No;No;Saw;No;No;No;Seen;Ye s;Yes;No
+316;Yes;No;No;Yes;No;Yes;Yes;Yes;No;No
+317;No;No;No;Yes;nan;Yes;Yes;Yes;Yes;Yes
+318;Yes;Yes;Haven't;Yes;Not seen;Yes;No;Yes;Yes;nan
+319;Yes;No;Yes;No;No;Yes;No;No;Yes;Yes
+320;No;No;Yes;No;No;Yes;No;Yes;Yes;No
+321;No;Yes;No;Yes;No;Yes;No;Yes;Yes;Yes
+322;Yes;No;No;Yes;Yes;No;Yes;Yes;Yes;No
+323;No;Yes;No;No;Yes;Yes;No;Not seen;No;No
+324;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;No
+325;No;No;No;Yes;Seen;No;No;Seen;Yes;No
+326;Yes;Seen;Yes;Yes;No;Seen;No;Yes;No;No
+327;Yes;Yes;No;No;No;Yes;No;Yes;No;No
+328;Yes;No;No;Yes;Ye s;No;No;No;Yes;Yes
+329;No;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes
+330;Yes;Yes;Yes;Seen;Yes;Yes;No;Yes;No;No
+331;No;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes
+332;Yes;No;Yes;Yes;No;No;No;No;Yes;No
+333;No;No;No;Yes;Yes;Yes;No;No;No;No
+334;Yes;No;Yes;No;Yes;No;No;Yes;No;Yes
+335;Yes;Seen;No;No;Yes;No;No;nan;Yes;Seen
+336;Yes;No;Yes;No;nan;No;No;nan;No;Yes
+337;No;Seen;No;No;Yes;No;Yes;No;No;No
+338;No;Yes;Yes;Yes;No;Yes;No;Yes;Yes;Yes
+339;Yes;No;Yes;No;Yes;No;No;Yes;Yes;Yes
+340;No;Yes;No;No;Yes;No;Yes;No;No;Yes
+341;Yes;Yes;No;No;No;nan;Yes;No;Yes;Yes
+342;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;No
+343;Yes;Yes;Yes;Ye s;No;No;Yes;No;Yes;No
+344;No;No;Yes;Yes;No;No;Yes;Yes;Yes;No
+345;No;Yes;nan;No;Yes;Ye s;Yes;Yes;Yes;Yes
+346;Yes;No;No;No;Yes;No;Not seen;No;No;Seen
+347;Ye s;Saw;Seen;No;No;Yes;Ye s;No;Yes;Yes
+348;No;No;No;No;No;No;Yes;No;No;Yes
+349;Ye s;Yes;No;No;Yes;Yes;No;No;No;Yes
+350;No;No;Saw;No;Yes;Yes;No;No;Yes;Yes
+351;Yes;Saw;No;No;Yes;Yes;No;Yes;No;Yes
+352;No;Yes;No;Yes;Yes;Haven't;No;Yes;Yes;Yes
+353;No;Yes;No;No;No;No;Ye s;No;No;Yes
+354;Not seen;No;Yes;No;No;No;No;Yes;Yes;Yes
+355;No;Yes;No;Yes;Haven't;Yes;No;Yes;Seen;Yes
+356;Saw;Yes;No;No;Yes;nan;No;No;Seen;No
+357;No;No;Yes;No;Yes;No;No;Haven't;No;Not seen
+358;Yes;No;Yes;No;No;No;No;No;Not seen;No
+359;Yes;Haven't;Ye s;No;Yes;No;Yes;Yes;Seen;No
+360;Yes;Yes;No;No;Yes;Yes;No;No;Yes;Yes
+361;No;No;Yes;Yes;No;Seen;No;No;Yes;No
+362;No;Yes;Yes;No;No;No;Yes;No;No;nan
+363;No;Yes;No;Yes;No;Yes;Yes;No;Yes;No
+364;Yes;No;Yes;No;No;Not seen;Not seen;No;Yes;No
+365;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+366;Seen;No;No;No;No;Yes;Yes;No;No;Yes
+367;No;Yes;Yes;No;Yes;No;No;Yes;No;Yes
+368;Yes;No;No;Yes;No;No;No;Yes;No;Yes
+369;Yes;No;No;No;Yes;Yes;Seen;No;Saw;Not seen
+370;No;Yes;No;No;Yes;Yes;Yes;No;No;Yes
+371;No;No;Yes;No;No;No;No;Yes;Yes;Yes
+372;Yes;Yes;No;Yes;Yes;No;Yes;Yes;No;Yes
+373;Yes;No;No;No;No;No;Yes;No;Yes;No
+374;Yes;Yes;No;No;No;No;Yes;No;Yes;Yes
+375;No;nan;No;No;No;No;No;No;Yes;No
+376;Yes;Not seen;No;Yes;Yes;No;No;Seen;No;No
+377;No;Ye s;Yes;No;No;Yes;No;Yes;Yes;No
+378;Yes;No;Yes;Seen;No;Yes;No;Ye s;Yes;Yes
+379;Not seen;Yes;No;Seen;Yes;No;No;Yes;No;No
+380;No;Yes;No;No;Yes;Seen;Yes;No;Ye s;Yes
+381;No;Seen;No;No;Seen;Yes;Seen;No;No;Yes
+382;Yes;Yes;No;No;Yes;Yes;Seen;Yes;No;No
+383;No;No;No;Yes;No;Yes;No;No;No;Yes
+384;No;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes
+385;No;No;No;No;Yes;No;No;No;Yes;Yes
+386;Yes;Not seen;Seen;Yes;Yes;Yes;Yes;Yes;No;Ye s
+387;Yes;Yes;Yes;No;Yes;No;Yes;No;No;Seen
+388;No;No;No;No;No;Yes;nan;Yes;Yes;Yes
+389;No;Seen;No;No;Yes;No;No;Yes;No;Yes
+390;Yes;No;No;Yes;Yes;No;No;No;No;Seen
+391;Yes;No;Yes;Yes;Yes;No;Yes;No;No;Not seen
+392;No;nan;Yes;No;No;Yes;No;No;No;No
+393;Yes;Yes;Yes;No;No;No;Yes;No;No;No
+394;No;Seen;Yes;No;Seen;Yes;No;Yes;No;Yes
+395;No;Yes;No;Yes;No;No;No;No;No;No
+396;No;Not seen;Yes;No;No;Yes;No;No;No;Yes
+397;No;No;No;No;Yes;No;No;Yes;Yes;Yes
+398;No;Yes;No;Yes;No;No;No;No;No;Yes
+399;Yes;Not seen;Yes;No;Yes;No;Yes;Yes;Yes;Yes
+400;No;No;No;No;Ye s;Yes;Seen;No;Yes;Saw
+401;Yes;nan;Yes;No;No;Yes;No;Yes;No;Ye s
+402;No;Yes;No;Yes;No;No;Yes;No;No;Yes
+403;Yes;No;No;Yes;Yes;Yes;No;No;No;Yes
+404;No;Yes;nan;No;Yes;Yes;Yes;Yes;No;Yes
+405;No;Yes;Yes;Yes;Yes;Yes;No;No;No;Yes
+406;Yes;No;Yes;Haven't;Yes;Haven't;Yes;Yes;Yes;No
+407;No;No;No;Yes;Yes;Saw;No;No;Saw;Yes
+408;No;No;No;No;No;No;No;Yes;No;No
+409;Yes;Seen;Yes;No;Yes;No;No;Yes;Yes;Yes
+410;Yes;Yes;No;No;Yes;Yes;No;No;No;Yes
+411;No;Yes;No;No;Yes;Yes;No;No;No;Yes
+412;No;No;No;Yes;No;Seen;No;No;No;No
+413;No;Seen;Yes;Yes;No;No;No;No;No;Yes
+414;Yes;Yes;No;No;No;Yes;Yes;No;No;No
+415;Yes;Yes;No;No;No;Yes;No;No;Yes;No
+416;Yes;Ye s;No;No;No;No;Yes;No;No;No
+417;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;No;Yes
+418;No;No;No;No;No;No;No;Yes;Yes;nan
+419;No;Yes;Yes;No;No;Yes;No;Saw;No;No
+420;No;No;No;Yes;Yes;No;Yes;No;Ye s;No
+421;Yes;Yes;No;Yes;Yes;No;No;Seen;No;No
+422;No;No;No;Yes;Yes;Yes;Yes;Yes;No;Yes
+423;Yes;Yes;Yes;No;No;No;Yes;Not seen;nan;Yes
+424;No;Yes;nan;Yes;Yes;No;Yes;No;No;No
+425;No;Yes;No;Yes;No;Not seen;Yes;Yes;No;nan
+426;No;Yes;Yes;No;Ye s;No;Yes;No;No;No
+427;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Seen
+428;No;No;No;No;Yes;Seen;Seen;Yes;No;Yes
+429;No;Yes;Yes;No;No;No;Yes;Yes;nan;Yes
+430;Not seen;Not seen;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes
+431;Yes;No;No;Saw;No;Yes;Yes;Seen;Yes;Yes
+432;No;No;Yes;No;No;No;Yes;No;No;No
+433;No;No;Yes;No;No;No;No;No;Yes;No
+434;No;No;Not seen;No;No;No;Yes;No;Yes;Yes
+435;No;Yes;Yes;Yes;No;Yes;Yes;No;Not seen;Yes
+436;No;Yes;Yes;No;No;Yes;No;Yes;No;Yes
+437;No;No;No;Yes;No;No;Yes;No;No;Yes
+438;Yes;Yes;No;Yes;No;No;Yes;No;No;Yes
+439;Yes;No;Yes;Not seen;Yes;Ye s;Saw;Yes;Yes;Yes
+440;No;No;No;No;Yes;No;Yes;No;Seen;Not seen
+441;No;No;No;No;Yes;Yes;Yes;No;No;No
+442;Yes;No;No;No;No;Seen;Yes;Yes;No;Yes
+443;nan;Haven't;No;Not seen;No;Not seen;No;nan;No;Not seen
+444;No;Seen;Yes;Yes;No;No;No;Yes;No;Yes
+445;No;Saw;No;No;No;Yes;Yes;nan;No;No
+446;Yes;No;No;No;Yes;Not seen;Yes;No;Yes;Yes
+447;No;Yes;Yes;No;No;No;Yes;No;No;nan
+448;No;No;No;Yes;Yes;Yes;No;No;Yes;Yes
+449;No;Not seen;No;Yes;No;No;Yes;Yes;No;No
+450;Yes;No;No;No;No;No;No;Yes;No;No
+451;Yes;Yes;No;No;No;Yes;Yes;Yes;No;Yes
+452;Yes;No;Yes;Yes;No;Yes;Yes;Yes;No;Yes
+453;No;No;No;Seen;No;No;No;No;Yes;Yes
+454;Yes;Yes;Yes;No;Not seen;Yes;No;No;No;Yes
+455;No;No;No;No;No;Yes;Yes;No;No;No
+456;Yes;Seen;No;No;No;No;No;No;No;Yes
+457;No;Seen;Yes;Yes;No;No;No;No;No;No
+458;Yes;No;No;No;Ye s;No;Yes;Yes;No;Yes
+459;No;No;No;No;Yes;Yes;No;No;No;No
+460;No;No;No;No;Yes;Yes;Yes;No;Yes;No
+461;Yes;Yes;Yes;No;Yes;No;No;Ye s;No;No
+462;No;No;Yes;No;No;Yes;No;Yes;No;No
+463;No;Not seen;Yes;No;Haven't;Yes;Yes;Yes;No;No
+464;No;No;No;No;nan;No;No;Yes;No;No
+465;Yes;Yes;No;No;Yes;Yes;Yes;No;No;No
+466;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;No
+467;No;Haven't;No;Yes;Yes;Yes;No;No;Yes;nan
+468;No;Not seen;Yes;No;No;No;No;Yes;No;Yes
+469;Yes;No;No;No;No;No;No;No;Yes;No
+470;Yes;Yes;No;Seen;Yes;No;No;Yes;Yes;No
+471;No;No;Yes;Yes;No;Not seen;No;Seen;No;No
+472;Yes;No;No;No;Yes;Yes;No;No;Yes;No
+473;Yes;No;No;Yes;No;Yes;nan;Yes;Yes;Yes
+474;No;No;Yes;Yes;Not seen;Yes;Yes;No;Yes;Yes
+475;Ye s;Yes;Yes;Seen;No;No;Not seen;nan;Yes;Yes
+476;No;No;Yes;Seen;No;Yes;Yes;No;Yes;No
+477;Yes;No;Yes;No;No;Yes;Yes;No;Yes;Yes
+478;Yes;No;Yes;No;Yes;Yes;No;No;No;No
+479;Yes;Yes;No;Ye s;No;No;Yes;No;No;Yes
+480;Not seen;Yes;No;Not seen;Yes;No;No;Yes;Yes;No
+481;Yes;Yes;No;Yes;No;No;No;No;Seen;No
+482;Yes;No;No;No;Yes;No;No;No;No;Not seen
+483;Yes;nan;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No
+484;No;nan;Yes;Seen;No;Yes;Yes;No;Yes;Yes
+485;Yes;Yes;Saw;Yes;No;No;No;No;Yes;Yes
+486;nan;Yes;No;No;Yes;Yes;Yes;Yes;No;Seen
+487;Yes;No;No;Saw;Saw;No;No;Yes;Yes;No
+488;Yes;No;No;No;No;No;No;Saw;No;No
+489;No;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes
+490;No;nan;No;No;No;Yes;Yes;Not seen;No;No
+491;No;No;No;No;Yes;Not seen;No;No;No;No
+492;No;Yes;Yes;No;No;No;No;Yes;No;No
+493;Yes;Yes;Yes;No;No;No;Yes;No;No;Yes
+494;No;Seen;Seen;Saw;No;Yes;Yes;No;Yes;Yes
+495;No;No;Yes;No;Yes;No;No;Not seen;No;Yes
+496;Yes;No;No;No;No;No;No;Seen;Seen;Yes
+497;Saw;Yes;No;No;Ye s;No;Yes;Yes;No;Yes
+498;No;Yes;Yes;Yes;No;No;No;No;No;No
+499;No;No;No;Yes;No;Yes;Yes;Yes;No;Seen
+500;Yes;No;Yes;Yes;Yes;No;No;No;Yes;Yes
+501;Yes;No;No;Yes;No;No;No;No;Yes;No
+502;No;Yes;Yes;No;No;Yes;No;No;Yes;Yes
+503;Yes;No;No;Yes;No;Yes;No;Not seen;Yes;No
+504;Seen;No;No;No;Yes;Yes;Seen;No;Yes;No
+505;Seen;No;No;No;Yes;Seen;No;Yes;Yes;No
+506;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;Yes
+507;Yes;No;Yes;nan;Yes;Yes;No;Yes;Yes;Seen
+508;No;Yes;No;No;No;No;Yes;No;Yes;Yes
+509;Yes;No;Haven't;No;Yes;No;Yes;No;Yes;Yes
+510;No;No;No;No;Yes;No;No;No;No;No
+511;Yes;No;No;Seen;Yes;No;Yes;No;Yes;Yes
+512;No;Yes;No;Yes;Yes;Yes;Yes;No;Yes;No
+513;Yes;No;Yes;No;No;Yes;No;Yes;Yes;No
+514;Yes;No;Yes;No;Yes;Yes;Yes;Yes;Yes;No
+515;Yes;No;No;No;Yes;No;No;No;No;Yes
+516;Yes;No;No;Yes;No;Yes;Yes;Yes;No;No
+517;No;Not seen;No;Yes;Yes;Yes;Yes;No;Yes;No
+518;No;Yes;Yes;No;Yes;No;Yes;No;No;No
+519;No;Yes;Saw;Yes;Yes;No;Yes;No;Yes;Yes
+520;Seen;No;No;Yes;No;No;No;No;No;Yes
+521;Ye s;Yes;No;Ye s;No;No;Yes;No;Yes;Not seen
+522;Yes;No;No;No;No;Yes;Ye s;No;Haven't;Yes
+523;No;No;No;No;No;No;No;Yes;Haven't;No
+524;No;No;Yes;Seen;No;Yes;No;No;No;No
+525;No;No;No;No;No;Yes;Yes;Not seen;Ye s;Yes
+526;No;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes
+527;No;No;Yes;No;No;No;Not seen;Ye s;No;No
+528;No;No;nan;Yes;No;Yes;No;Yes;Yes;No
+529;Haven't;Yes;Seen;No;Seen;Yes;No;Yes;No;No
+530;No;No;No;No;No;No;No;No;Yes;Yes
+531;Seen;Yes;No;No;Yes;No;No;No;No;Haven't
+532;No;No;No;No;No;Yes;Yes;No;Yes;No
+533;Not seen;Not seen;No;Yes;Yes;No;No;Yes;Yes;No
+534;No;Yes;Yes;No;No;No;Yes;Yes;No;Haven't
+535;Yes;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+536;Yes;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+537;No;Yes;No;No;No;No;No;Ye s;No;No
+538;No;No;No;No;Yes;No;Yes;Yes;Yes;Yes
+539;No;No;No;Yes;Yes;Yes;No;No;Yes;No
+540;No;Yes;Yes;Yes;Yes;No;No;Yes;Haven't;Yes
+541;No;No;Yes;Yes;Seen;Yes;Yes;No;No;No
+542;No;No;Yes;No;No;No;No;Yes;No;No
+543;No;No;No;No;No;No;No;Yes;No;Yes
+544;No;No;No;Yes;Yes;Yes;No;Seen;No;No
+545;Yes;No;Yes;Yes;Yes;Yes;Yes;No;Saw;Yes
+546;No;Yes;No;nan;Yes;No;No;No;No;No
+547;No;Seen;Yes;No;Yes;Yes;Yes;No;No;No
+548;No;No;Seen;Yes;No;No;Yes;Yes;Seen;Yes
+549;No;No;No;No;Yes;Yes;No;Yes;No;No
+550;No;No;No;Yes;No;Yes;No;Yes;No;Yes
+551;No;No;No;No;Yes;No;No;Yes;No;Not seen
+552;No;Yes;No;No;Yes;No;No;Yes;Yes;Not seen
+553;No;Yes;Yes;Yes;No;Yes;Yes;No;No;Yes
+554;Not seen;Yes;Seen;Yes;Yes;No;No;No;Yes;nan
+555;No;No;No;Yes;No;No;Yes;Haven't;Not seen;No
+556;Yes;No;No;Yes;No;Yes;Seen;No;Yes;Yes
+557;Yes;No;Yes;No;nan;No;No;No;No;Yes
+558;No;Yes;Not seen;Haven't;Seen;Yes;Not seen;No;Seen;No
+559;Yes;Yes;No;No;No;No;Yes;No;Yes;No
+560;Yes;No;Yes;Yes;No;No;No;No;No;Yes
+561;No;Yes;No;Yes;No;Yes;No;Not seen;Yes;No
+562;No;No;No;No;Yes;No;No;Yes;Not seen;Yes
+563;Yes;Yes;Yes;No;Yes;No;Yes;No;Yes;Yes
+564;No;No;Seen;Yes;No;Saw;No;No;Yes;No
+565;No;Yes;No;No;No;No;No;No;Yes;nan
+566;No;Yes;Yes;No;nan;Yes;Yes;No;Yes;Yes
+567;Yes;Not seen;No;No;Not seen;Yes;Yes;No;No;Seen
+568;Yes;Yes;Not seen;No;Yes;No;Yes;No;No;No
+569;Yes;Yes;Seen;Yes;Yes;No;No;Yes;Yes;Seen
+570;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Not seen
+571;Yes;Yes;Yes;No;Yes;Saw;No;No;Yes;No
+572;Yes;No;No;No;Yes;Yes;No;No;No;Yes
+573;No;No;No;Yes;Yes;Yes;Seen;Yes;No;Yes
+574;Yes;No;No;Yes;Yes;No;No;No;No;No
+575;Yes;Not seen;Yes;No;Yes;Yes;Yes;No;Yes;Saw
+576;Yes;No;No;Yes;No;Yes;Yes;Yes;Saw;Yes
+577;No;Saw;No;Yes;No;Yes;No;No;Yes;No
+578;No;Yes;Yes;No;No;No;No;Not seen;Not seen;Yes
+579;Yes;Haven't;No;Yes;No;No;No;Yes;No;Yes
+580;No;No;Yes;No;Yes;No;No;Yes;Yes;Yes
+581;Yes;Yes;No;No;Ye s;Yes;No;Yes;Yes;No
+582;Yes;No;No;Yes;No;No;Seen;No;Yes;Yes
+583;Yes;No;No;No;No;No;No;Yes;Yes;No
+584;Yes;Yes;No;No;Not seen;No;No;No;Seen;No
+585;No;Yes;No;Yes;Yes;No;Yes;No;No;Yes
+586;No;Not seen;No;nan;Yes;Yes;Yes;No;Yes;No
+587;Ye s;Yes;No;No;No;No;Not seen;Yes;Yes;Yes
+588;nan;Haven't;No;No;Seen;No;No;Yes;No;No
+589;No;No;Yes;nan;No;No;Yes;No;No;No
+590;Yes;No;Seen;Yes;Yes;Yes;No;No;Yes;No
+591;Yes;No;Seen;No;Haven't;No;No;Haven't;No;No
+592;No;No;No;Yes;Yes;Haven't;No;Not seen;Yes;No
+593;Seen;No;Yes;No;nan;No;No;Yes;Not seen;Yes
+594;No;Haven't;Yes;No;Yes;Yes;No;No;No;No
+595;No;Yes;No;No;No;No;No;Saw;No;Yes
+596;Yes;No;Yes;Yes;Yes;No;No;No;Yes;Yes
+597;Seen;Yes;Yes;No;Yes;No;Yes;No;No;No
+598;Yes;Yes;Yes;Yes;No;Yes;Haven't;No;Yes;No
+599;Yes;No;Yes;Yes;Yes;No;Yes;No;No;Yes
+600;No;Yes;Yes;No;No;Yes;No;No;Yes;No
+601;Yes;No;No;Yes;No;Yes;No;No;Seen;nan
+602;Haven't;No;Not seen;Yes;Yes;Yes;No;Yes;No;Yes
+603;Yes;No;Yes;No;No;Yes;Saw;No;Yes;Ye s
+604;No;Yes;Not seen;Yes;Yes;No;No;No;Yes;No
+605;No;No;Yes;No;No;No;No;Yes;Not seen;No
+606;Not seen;No;No;Yes;No;Yes;Yes;Yes;Yes;No
+607;Yes;No;No;No;No;No;No;Yes;Yes;No
+608;Yes;Seen;Yes;No;Yes;No;No;Yes;nan;Seen
+609;Yes;Yes;No;Yes;Yes;No;Yes;Saw;No;No
+610;No;Yes;No;No;Yes;Yes;Yes;Yes;No;Not seen
+611;No;No;Not seen;No;Yes;Yes;No;No;Yes;Yes
+612;nan;No;No;Yes;Yes;Not seen;Yes;No;Yes;Yes
+613;No;Yes;Yes;No;No;Yes;No;No;No;No
+614;Yes;Yes;No;No;No;Yes;Yes;No;Yes;Saw
+615;Ye s;Yes;Yes;No;Yes;Yes;Yes;No;No;Yes
+616;No;No;Yes;Not seen;Yes;No;No;Yes;Yes;Yes
+617;No;No;No;Yes;Yes;No;Not seen;Yes;Yes;Yes
+618;Yes;No;Not seen;No;No;Yes;No;Yes;No;No
+619;No;No;Yes;No;No;Yes;No;No;Yes;No
+620;Yes;Saw;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+621;Yes;No;No;Yes;Yes;No;No;Yes;nan;No
+622;No;No;No;No;No;No;No;Yes;No;No
+623;Ye s;No;No;No;Yes;No;Yes;No;Yes;No
+624;Not seen;No;No;Yes;Yes;Seen;Yes;No;Yes;Yes
+625;No;Yes;No;Yes;Yes;Yes;Yes;No;Yes;No
+626;No;nan;Yes;Yes;No;No;Yes;Yes;Yes;Yes
+627;No;No;No;Yes;No;No;No;Saw;Yes;No
+628;Not seen;No;No;Yes;Not seen;No;Yes;No;No;Yes
+629;No;No;No;No;Yes;No;No;No;No;Yes
+630;Yes;No;Haven't;No;No;No;Yes;Yes;Not seen;Not seen
+631;Yes;No;No;No;No;No;No;No;Not seen;No
+632;No;Yes;No;No;No;Yes;Yes;No;Yes;No
+633;No;Yes;Yes;No;Yes;Yes;Yes;No;Yes;No
+634;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No
+635;No;No;nan;Yes;Yes;No;Yes;No;No;Yes
+636;No;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No
+637;Not seen;No;Yes;No;No;No;No;Yes;Yes;No
+638;No;Yes;No;Yes;No;Yes;Haven't;Haven't;Yes;Seen
+639;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No;No
+640;No;Yes;Not seen;No;Yes;No;No;Yes;No;Yes
+641;No;Yes;No;Yes;Yes;Yes;Yes;No;Yes;No
+642;No;Yes;No;No;No;Yes;No;No;No;Yes
+643;Seen;No;No;Yes;Ye s;Yes;Yes;Yes;Yes;Yes
+644;No;No;Yes;Seen;No;Yes;Yes;No;Yes;No
+645;Yes;Yes;Yes;No;Haven't;Saw;Saw;Yes;No;No
+646;Yes;Yes;Yes;No;No;Yes;Yes;Yes;No;Yes
+647;No;Yes;Yes;Yes;Yes;No;Yes;No;Yes;No
+648;Yes;Yes;Yes;Yes;No;Seen;Yes;No;Yes;Haven't
+649;Yes;No;Ye s;No;No;Yes;Yes;No;No;No
+650;Yes;Yes;No;No;Yes;Yes;No;No;Yes;Yes
+651;Yes;Yes;No;No;Yes;No;No;No;Yes;Seen
+652;No;No;Yes;No;No;No;No;Seen;Yes;Yes
+653;Yes;No;No;Not seen;Not seen;No;No;No;Yes;Yes
+654;No;No;No;No;No;No;No;Yes;Not seen;No
+655;Yes;No;Yes;Yes;Seen;No;Yes;Seen;No;No
+656;No;Yes;No;Haven't;No;Yes;No;Yes;Ye s;Yes
+657;No;No;Ye s;Yes;Yes;nan;Yes;Yes;Yes;Yes
+658;No;No;Yes;Yes;No;Yes;Yes;No;No;No
+659;No;No;No;Yes;Yes;No;Yes;No;No;Not seen
+660;No;Yes;No;Haven't;Yes;No;Yes;Yes;No;Yes
+661;Yes;Yes;Yes;No;No;No;Seen;Yes;No;Yes
+662;No;Yes;No;Not seen;No;No;No;Yes;Yes;No
+663;Yes;Yes;Yes;Saw;Yes;Yes;No;No;Yes;No
+664;Yes;Yes;No;No;Yes;No;Not seen;Yes;No;Yes
+665;No;Yes;No;Yes;No;Yes;No;No;Yes;No
+666;Yes;Yes;No;Yes;No;No;No;Yes;No;No
+667;No;No;No;No;No;Seen;Not seen;No;No;Yes
+668;Yes;No;No;Yes;Yes;Yes;No;Haven't;Not seen;Yes
+669;No;Yes;Yes;Yes;No;Yes;Yes;Seen;Yes;No
+670;Yes;Ye s;No;Yes;Yes;No;No;No;Yes;Yes
+671;Yes;No;Yes;No;No;No;Yes;No;No;Yes
+672;No;No;No;No;Yes;Not seen;Yes;No;No;No
+673;No;No;No;Yes;Yes;No;Yes;No;Yes;No
+674;No;No;No;No;No;Ye s;Yes;Yes;No;No
+675;No;No;Yes;No;Yes;Yes;Haven't;No;No;No
+676;No;Yes;Saw;No;No;No;Yes;Yes;No;No
+677;Yes;No;No;No;No;No;Yes;Yes;Yes;No
+678;No;Saw;No;No;No;No;Yes;No;Yes;Yes
+679;No;Yes;Yes;Seen;No;No;Yes;No;Yes;Yes
+680;Yes;No;Yes;Not seen;No;No;Yes;No;Haven't;nan
+681;No;No;No;No;No;No;Yes;No;No;No
+682;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes
+683;No;Yes;Yes;Not seen;No;Yes;Yes;No;Yes;No
+684;No;No;No;Yes;Yes;No;Yes;No;Yes;nan
+685;Yes;No;No;Yes;No;No;No;Yes;No;No
+686;No;No;No;Yes;Yes;Yes;Yes;No;Seen;No
+687;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes;No
+688;No;Yes;No;Yes;Yes;No;Not seen;Yes;No;No
+689;Yes;Yes;Yes;No;No;Yes;No;Yes;No;Saw
+690;Yes;No;Yes;No;No;Yes;No;No;No;Seen
+691;Yes;Yes;No;Yes;Yes;No;Yes;Yes;No;Seen
+692;Not seen;No;Not seen;No;No;nan;Yes;No;Yes;Yes
+693;Yes;No;No;No;Yes;No;No;Yes;Yes;Yes
+694;Yes;No;No;nan;No;No;Yes;Yes;No;Yes
+695;Yes;No;Yes;Yes;Yes;No;Yes;No;No;No
+696;No;Yes;No;No;Yes;No;No;Yes;No;Yes
+697;No;Yes;Yes;No;No;No;Not seen;No;No;No
+698;No;No;No;No;Yes;Yes;Yes;Yes;No;No
+699;Yes;No;No;Yes;No;No;Yes;No;No;No
+700;Yes;No;Yes;Not seen;Seen;No;Yes;Yes;Yes;No
+701;No;No;Yes;No;No;Seen;Yes;Yes;No;No
+702;Yes;No;No;No;No;No;No;Yes;Yes;Yes
+703;Yes;Yes;No;No;No;No;No;No;Yes;Yes
+704;Yes;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+705;Yes;Yes;Yes;Ye s;Yes;No;Yes;No;No;Yes
+706;No;Yes;No;Ye s;No;No;No;No;No;No
+707;Yes;Yes;No;Yes;Yes;Haven't;Yes;Seen;No;Yes
+708;No;No;Yes;No;Yes;No;No;Seen;No;No
+709;No;No;No;No;Yes;Not seen;No;No;No;Yes
+710;Yes;No;Yes;No;No;No;Yes;nan;No;Yes
+711;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No
+712;Yes;No;Yes;No;Yes;No;No;Yes;Yes;Yes
+713;No;Seen;No;No;Yes;No;No;No;Yes;Yes
+714;No;No;No;Yes;Yes;No;No;No;No;No
+715;Yes;No;No;No;No;No;Yes;Yes;No;No
+716;No;Yes;No;No;No;Yes;No;No;No;Yes
+717;Haven't;Ye s;Yes;No;Seen;Yes;No;Not seen;No;Yes
+718;No;No;Yes;Yes;Yes;No;No;No;No;No
+719;No;No;No;No;Yes;Yes;Yes;Yes;No;No
+720;Yes;Yes;Yes;Yes;No;Yes;No;Yes;No;Yes
+721;No;No;No;Yes;Seen;No;No;Saw;Yes;Yes
+722;No;Yes;Yes;Yes;Yes;No;No;No;No;Yes
+723;No;No;Yes;No;No;No;No;No;No;No
+724;Yes;Yes;Yes;No;Saw;Yes;Haven't;No;Yes;Yes
+725;No;Yes;No;Saw;Yes;nan;No;No;No;No
+726;Yes;Yes;Yes;No;Yes;No;No;Yes;No;No
+727;No;Yes;Yes;No;No;No;No;Yes;No;No
+728;Yes;No;Yes;No;Yes;No;Yes;Saw;No;Not seen
+729;Saw;No;No;Saw;No;Yes;No;No;No;Yes
+730;Yes;No;Yes;Yes;Yes;Yes;No;No;No;Yes
+731;No;Yes;No;Not seen;No;Yes;Seen;No;No;Yes
+732;No;Not seen;No;No;Yes;Saw;No;No;No;No
+733;No;No;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+734;No;Yes;Yes;No;Yes;No;Yes;No;No;No
+735;No;Yes;No;Yes;No;Yes;No;No;No;No
+736;No;Yes;No;Yes;Seen;Yes;Yes;nan;Yes;No
+737;Yes;Yes;No;Yes;Yes;Yes;Yes;Saw;Yes;No
+738;Haven't;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No
+739;Yes;No;No;Ye s;No;No;Yes;No;Yes;Yes
+740;Not seen;No;Yes;No;Yes;Yes;No;Yes;No;No
+741;No;No;Yes;No;No;No;Yes;No;Yes;No
+742;Yes;No;Yes;Yes;No;Yes;Ye s;Yes;Yes;No
+743;No;Yes;No;No;No;Yes;No;Yes;Yes;No
+744;No;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes
+745;No;No;No;Yes;Yes;Yes;Not seen;No;Seen;No
+746;Yes;Not seen;Yes;No;Yes;Yes;Yes;Yes;Ye s;Yes
+747;No;Yes;Yes;No;Not seen;Ye s;Yes;Yes;Not seen;Yes
+748;No;No;Yes;No;No;Yes;Seen;Not seen;Yes;No
+749;Yes;No;No;Seen;Yes;Yes;No;No;Yes;No
+750;No;Yes;No;No;Yes;No;No;No;No;No
+751;No;No;Yes;Yes;Yes;No;No;Yes;Haven't;No
+752;Yes;Yes;Yes;Not seen;No;Yes;Yes;Yes;No;Yes
+753;Yes;Yes;Yes;Yes;Yes;No;Yes;No;Yes;No
+754;Yes;Yes;No;Saw;No;No;No;Yes;Yes;No
+755;Not seen;No;Yes;No;Yes;No;No;Yes;Yes;No
+756;No;No;Yes;Not seen;Yes;No;No;Yes;Yes;No
+757;No;No;Haven't;Yes;No;Yes;Yes;No;No;Yes
+758;Yes;No;No;No;Yes;Seen;No;No;No;Yes
+759;Yes;Yes;Not seen;No;Not seen;Yes;Yes;No;No;Yes
+760;No;Yes;No;No;Yes;Yes;No;Yes;No;No
+761;Yes;No;No;No;No;Yes;No;No;Yes;Yes
+762;Yes;No;No;No;Yes;Saw;No;Yes;No;No
+763;No;Yes;No;No;Yes;No;Yes;No;Yes;Not seen
+764;No;No;Yes;Yes;nan;Yes;No;Yes;No;No
+765;No;No;Yes;No;No;No;Haven't;No;No;Yes
+766;No;Yes;Yes;Yes;No;No;No;No;No;No
+767;No;No;Yes;Yes;No;nan;No;No;Yes;No
+768;Yes;No;Yes;Yes;Yes;No;Yes;No;No;Yes
+769;Yes;Yes;No;Yes;No;Yes;Seen;No;Yes;No
+770;Yes;Yes;No;Yes;No;Not seen;No;No;Seen;No
+771;Yes;Yes;No;No;Yes;nan;Yes;No;No;Yes
+772;Yes;Yes;No;Yes;No;No;No;No;Not seen;No
+773;Yes;No;No;No;No;Yes;No;Not seen;No;No
+774;Yes;No;No;Yes;Yes;Yes;Seen;No;Yes;Yes
+775;Seen;Yes;No;No;No;No;No;No;No;No
+776;No;Seen;No;No;Yes;Yes;No;Yes;Yes;No
+777;Yes;No;No;No;Yes;Not seen;Yes;No;No;No
+778;No;Ye s;Yes;No;Yes;No;Yes;Seen;Yes;No
+779;No;Yes;Not seen;Yes;No;Yes;Yes;Yes;No;Yes
+780;Not seen;Yes;Seen;No;No;Yes;nan;No;Yes;Yes
+781;No;Yes;Saw;No;No;Yes;Yes;Yes;Yes;No
+782;Seen;Ye s;Yes;No;No;No;Yes;Saw;Yes;Yes
+783;Yes;No;Yes;No;Yes;No;No;No;Yes;Yes
+784;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes
+785;Yes;No;No;Yes;Yes;Yes;Yes;No;No;No
+786;No;Not seen;No;No;No;No;Yes;No;No;Yes
+787;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes;Yes
+788;Yes;Yes;No;No;No;Not seen;Seen;No;Yes;Yes
+789;No;Seen;No;Haven't;No;Yes;No;Not seen;Yes;No
+790;Yes;Yes;Saw;No;Yes;No;No;No;Yes;Yes
+791;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes
+792;Yes;Yes;No;Yes;No;No;No;Yes;Yes;No
+793;No;Yes;No;No;No;Seen;Yes;No;No;No
+794;No;No;No;No;No;No;No;Yes;Yes;No
+795;No;No;Yes;No;No;No;No;No;Not seen;No
+796;No;Saw;No;No;No;Yes;No;No;No;Yes
+797;Yes;No;No;Yes;No;No;No;No;No;Yes
+798;No;No;No;Not seen;Not seen;No;No;Haven't;Seen;No
+799;No;Seen;Yes;No;No;Yes;nan;Yes;Yes;No
+800;No;Yes;Yes;nan;No;No;Yes;Yes;Saw;Yes
+801;Yes;Seen;No;Yes;No;Yes;Seen;Yes;No;Yes
+802;No;No;Yes;Yes;Yes;Yes;No;Yes;No;Yes
+803;Yes;No;Yes;Yes;No;No;Yes;No;No;Yes
+804;Yes;Yes;Yes;No;Yes;No;No;No;Yes;Yes
+805;Yes;Yes;Yes;No;Yes;No;No;No;No;Yes
+806;No;No;Yes;Yes;Yes;No;No;Yes;Yes;No
+807;Yes;Yes;No;No;No;No;No;Yes;Yes;Yes
+808;No;No;Yes;Haven't;Yes;Yes;Seen;Yes;Ye s;Yes
+809;No;Yes;No;No;Yes;No;Yes;Seen;No;Yes
+810;Yes;Yes;Saw;Yes;Not seen;Saw;Yes;Yes;Yes;No
+811;No;Yes;No;Yes;No;No;Yes;Yes;No;Yes
+812;No;Yes;Yes;Yes;Yes;No;Yes;No;No;Yes
+813;No;No;Yes;Yes;No;No;Ye s;No;Yes;No
+814;Yes;No;No;Yes;No;Haven't;No;No;Seen;Yes
+815;Yes;No;Seen;Haven't;Yes;Not seen;No;No;Ye s;Yes
+816;Not seen;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Not seen;Yes
+817;Yes;Yes;Seen;No;Yes;Yes;No;Yes;Yes;Yes
+818;No;Seen;No;No;Yes;Yes;No;Yes;Yes;Yes
+819;No;No;Yes;Yes;No;Yes;Yes;No;Yes;Yes
+820;No;No;No;No;No;No;No;Yes;Not seen;Yes
+821;No;No;No;No;Yes;Yes;Yes;Yes;No;No
+822;Yes;No;No;No;Yes;Yes;No;No;Yes;nan
+823;nan;Yes;nan;Yes;No;No;No;No;nan;No
+824;Yes;Yes;Yes;No;Yes;Yes;No;No;Not seen;Yes
+825;Yes;Not seen;No;No;No;No;No;Yes;No;Yes
+826;No;Yes;No;Yes;No;Yes;Yes;Yes;Yes;Seen
+827;Yes;No;Haven't;No;Yes;No;Yes;Yes;No;No
+828;No;No;No;No;No;Yes;No;No;Yes;No
+829;No;No;No;nan;Not seen;No;Yes;Seen;No;Yes
+830;Yes;Not seen;No;No;nan;No;Saw;Yes;Yes;No
+831;Yes;Yes;No;No;Yes;Yes;Yes;No;No;No
+832;No;No;Yes;No;No;No;Yes;Haven't;Yes;No
+833;Yes;Yes;Yes;No;Yes;No;No;nan;Yes;No
+834;No;No;No;Yes;No;Yes;No;No;Yes;Yes
+835;No;Yes;No;No;Yes;No;Yes;No;Yes;No
+836;No;No;Yes;No;Yes;No;No;No;No;No
+837;Yes;Yes;Yes;Yes;No;Yes;No;Yes;No;Yes
+838;Yes;No;No;Yes;Seen;Yes;Not seen;No;No;Seen
+839;No;No;No;Yes;No;No;No;Yes;Yes;Yes
+840;No;No;Yes;No;No;No;Yes;Yes;No;Yes
+841;No;Yes;No;Yes;Yes;No;No;No;No;Yes
+842;Yes;No;Yes;No;No;nan;Yes;Yes;No;Yes
+843;Yes;No;No;No;Yes;Yes;Haven't;Yes;Saw;No
+844;Yes;No;Saw;Not seen;Yes;No;Not seen;Ye s;Yes;No
+845;Seen;No;Yes;No;No;No;No;No;No;No
+846;No;Yes;No;Yes;No;Yes;Yes;Yes;Yes;No
+847;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes
+848;No;No;Not seen;No;Yes;Yes;No;Yes;Not seen;Yes
+849;No;Yes;Yes;No;Not seen;Yes;No;No;Yes;No
+850;Not seen;Yes;No;No;Yes;No;Seen;Yes;No;Yes
+851;Yes;Yes;Yes;Yes;Yes;No;Yes;Not seen;Not seen;No
+852;Yes;No;No;No;Yes;nan;No;Yes;Yes;Yes
+853;Yes;No;No;No;Not seen;Yes;No;Yes;No;Not seen
+854;No;Yes;No;No;Yes;Seen;Yes;Haven't;No;No
+855;Yes;Not seen;Saw;Yes;Yes;No;Yes;No;Not seen;No
+856;Yes;Ye s;No;Haven't;No;Yes;Yes;Yes;No;No
+857;No;No;Yes;Yes;Yes;Yes;No;Yes;No;No
+858;Yes;Yes;Yes;No;Yes;No;Yes;Yes;No;No
+859;Yes;Yes;No;Yes;Yes;No;No;Not seen;Yes;Not seen
+860;No;No;No;Yes;No;Yes;No;No;No;No
+861;No;No;Yes;No;No;No;No;No;Yes;Yes
+862;No;No;Not seen;Yes;No;No;No;Yes;Not seen;No
+863;Yes;No;Yes;Yes;No;No;No;Yes;Ye s;No
+864;No;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+865;Seen;No;No;No;Yes;Yes;Seen;Yes;Yes;Yes
+866;No;No;No;Yes;Yes;No;Yes;Yes;Yes;No
+867;Saw;Yes;Yes;Yes;No;No;No;Yes;No;No
+868;Yes;No;Yes;No;No;Yes;Yes;Yes;Yes;No
+869;Yes;No;No;No;Yes;Yes;Yes;No;Yes;No
+870;Yes;Yes;No;Yes;Yes;No;No;No;No;Yes
+871;Yes;No;No;Not seen;No;Yes;Yes;No;No;Haven't
+872;Yes;Yes;No;Seen;No;No;No;No;No;No
+873;No;Yes;No;No;No;Yes;Yes;Saw;No;nan
+874;Yes;No;Yes;No;Seen;No;Yes;Yes;Yes;No
+875;No;Haven't;Yes;Yes;No;No;No;No;Yes;No
+876;No;Yes;Yes;Yes;Yes;No;No;Yes;Not seen;No
+877;No;No;No;No;Saw;Not seen;No;No;No;Yes
+878;No;No;Yes;No;Yes;Yes;Yes;Yes;No;No
+879;No;No;No;Yes;Yes;Yes;Seen;No;Yes;Not seen
+880;No;Yes;No;Yes;Yes;Yes;No;No;No;No
+881;No;No;Yes;No;Yes;Yes;No;No;Yes;No
+882;Seen;Yes;No;No;Yes;No;Yes;Yes;Yes;No
+883;No;No;Yes;No;Yes;Yes;No;No;Yes;Ye s
+884;Yes;Saw;Yes;Seen;Yes;Yes;Not seen;Yes;Haven't;No
+885;No;No;Seen;Yes;nan;No;Yes;Yes;Yes;Haven't
+886;Yes;Yes;No;No;No;Haven't;No;Yes;No;Yes
+887;Yes;No;No;Yes;No;No;Yes;Yes;No;No
+888;Yes;No;No;No;No;Yes;Haven't;Haven't;Yes;No
+889;Saw;Yes;Yes;No;Yes;No;Yes;Not seen;No;No
+890;Yes;No;Yes;No;Seen;No;Yes;No;Yes;No
+891;No;No;No;No;Not seen;No;No;Yes;No;Yes
+892;No;No;No;Seen;Seen;No;Yes;No;No;Seen
+893;No;No;No;No;No;No;Yes;No;No;No
+894;No;No;Yes;Yes;No;Seen;No;Yes;Yes;Yes
+895;No;Yes;No;nan;Yes;No;No;No;No;No
+896;No;Yes;No;Yes;No;Yes;Yes;Yes;No;No
+897;No;Yes;No;No;No;Yes;Ye s;Yes;No;No
+898;Yes;Yes;Saw;No;No;No;No;No;No;Yes
+899;Yes;No;No;No;Yes;No;Yes;nan;No;Saw
+900;Yes;No;nan;No;Yes;No;Seen;No;No;Seen
+901;No;No;No;No;Yes;Yes;Yes;Yes;Not seen;Yes
+902;Yes;Yes;No;No;No;No;No;Yes;No;No
+903;Yes;Yes;Yes;No;No;No;No;No;Yes;Yes
+904;Yes;Yes;No;No;No;Not seen;Ye s;Yes;Yes;Yes
+905;Yes;Yes;Yes;Saw;No;Yes;No;Saw;Seen;No
+906;Yes;No;No;No;No;Ye s;Yes;No;No;No
+907;No;No;Yes;No;Yes;No;Yes;Yes;Haven't;Yes
+908;Yes;Yes;No;Yes;No;No;Yes;nan;No;Yes
+909;No;Yes;Ye s;No;No;Not seen;No;Yes;No;No
+910;No;No;Yes;No;No;Not seen;No;No;No;Yes
+911;No;Yes;No;No;No;Yes;No;No;Yes;Yes
+912;Yes;No;Yes;Not seen;Seen;No;No;Yes;No;No
+913;Saw;Yes;No;No;No;No;Yes;Yes;nan;No
+914;Yes;No;Yes;Yes;Yes;No;Yes;nan;Yes;Yes
+915;No;Yes;No;Yes;No;Seen;Yes;Yes;Yes;Yes
+916;No;No;Yes;Yes;No;nan;Seen;nan;Yes;Yes
+917;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes
+918;No;Yes;Seen;No;No;No;No;No;Yes;Yes
+919;No;Yes;No;No;Yes;Yes;Seen;No;No;No
+920;Yes;No;Yes;No;Yes;No;No;No;No;Yes
+921;Seen;Yes;nan;Yes;Seen;No;No;No;No;No
+922;No;Yes;No;Yes;nan;Yes;Yes;No;Yes;No
+923;Yes;No;No;Yes;No;Yes;Yes;Yes;Seen;Yes
+924;Yes;No;No;Yes;No;Yes;No;No;Yes;No
+925;No;No;No;Yes;No;Yes;Yes;Yes;Yes;No
+926;nan;Yes;No;Haven't;Yes;No;No;Yes;No;No
+927;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No
+928;Yes;Yes;Yes;Seen;No;No;No;No;No;No
+929;Yes;No;Yes;Yes;Yes;nan;Yes;Yes;Yes;No
+930;Yes;No;Yes;Yes;No;Yes;No;No;No;No
+931;Yes;No;No;No;No;Yes;No;Yes;Yes;No
+932;Saw;No;Yes;Yes;Yes;No;Yes;No;Yes;Yes
+933;Yes;No;Yes;No;Seen;No;Yes;Yes;No;No
+934;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+935;No;No;Yes;Yes;No;No;Yes;Yes;Haven't;Yes
+936;Yes;No;No;Yes;Yes;No;No;nan;No;No
+937;Yes;No;No;No;Yes;No;No;Yes;Seen;Yes
+938;Yes;Yes;No;Yes;No;Yes;No;No;No;Yes
+939;No;Yes;No;Yes;Saw;Yes;Yes;Yes;Yes;No
+940;No;Yes;No;No;Yes;Yes;Seen;No;No;Yes
+941;Yes;No;Yes;No;No;Not seen;No;No;Yes;Yes
+942;Yes;No;No;Yes;No;No;Yes;No;No;Yes
+943;No;Yes;No;No;Yes;No;Yes;Yes;Yes;Yes
+944;No;No;Yes;No;Yes;No;Yes;Yes;Yes;Ye s
+945;Yes;No;Yes;Yes;No;nan;No;Ye s;No;No
+946;Yes;No;No;Yes;Yes;No;No;No;No;No
+947;No;Yes;Yes;Yes;No;No;No;No;Yes;Yes
+948;Yes;Yes;No;No;Yes;No;No;No;No;Yes
+949;Yes;No;No;nan;No;No;No;No;No;Seen
+950;Yes;No;No;No;Yes;Yes;Yes;Yes;No;Yes
+951;Yes;Not seen;No;No;No;No;Yes;No;Seen;No
+952;nan;Yes;No;No;No;No;Yes;No;Yes;Yes
+953;nan;Yes;No;Yes;Yes;Yes;Yes;No;Yes;Yes
+954;Yes;Yes;Seen;No;Yes;Yes;No;Saw;No;Yes
+955;Yes;No;No;Yes;No;No;Yes;nan;No;No
+956;Yes;Yes;No;Yes;Yes;Yes;Seen;No;No;Yes
+957;No;Yes;Yes;No;No;No;No;No;No;No
+958;Seen;Yes;Ye s;nan;No;No;No;Yes;Yes;No
+959;No;No;No;Yes;No;Yes;No;Yes;No;Yes
+960;Yes;Yes;No;No;Not seen;No;No;No;No;No
+961;Ye s;Seen;No;No;Yes;Saw;No;No;No;Yes
+962;Yes;Yes;No;Ye s;Yes;Haven't;No;No;No;Yes
+963;Yes;Yes;No;Yes;No;No;Yes;Yes;No;Yes
+964;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Seen;No
+965;Yes;Yes;Yes;No;Yes;No;Yes;Not seen;Yes;No
+966;Seen;No;No;Ye s;Yes;Yes;Yes;Seen;No;Not seen
+967;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No
+968;Yes;No;No;No;Yes;No;Yes;No;No;Yes
+969;No;No;Not seen;Yes;Yes;Ye s;No;No;Yes;No
+970;No;No;Not seen;Yes;Yes;Not seen;No;No;No;Yes
+971;Seen;Not seen;No;No;No;No;Saw;Yes;Yes;Yes
+972;Yes;No;nan;No;No;No;Yes;Yes;No;nan
+973;Saw;No;Not seen;No;No;Not seen;No;No;No;Yes
+974;No;Not seen;No;No;Haven't;Yes;Yes;Yes;Yes;No
+975;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Seen;Ye s
+976;Yes;No;Yes;No;Seen;No;Yes;Yes;No;Yes
+977;Yes;Yes;No;Yes;Yes;No;No;Yes;No;No
+978;Yes;Yes;Yes;Saw;Yes;No;No;No;No;No
+979;No;No;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes
+980;Yes;No;No;Yes;No;No;Yes;Yes;No;Yes
+981;Yes;No;Yes;No;Yes;No;Not seen;No;Yes;No
+982;No;Yes;No;Yes;Yes;Seen;Yes;No;Yes;Haven't
+983;Yes;Yes;No;Yes;No;Yes;No;Yes;No;No
+984;No;Seen;Haven't;No;Yes;No;No;No;Yes;Saw
+985;No;Yes;No;Yes;Yes;Yes;Yes;No;Yes;Yes
+986;Yes;Yes;Not seen;No;Yes;No;No;Yes;Yes;Yes
+987;Yes;No;No;Yes;Yes;No;Seen;Yes;No;No
+988;Yes;No;No;Yes;No;No;Yes;Saw;Yes;Yes
+989;No;No;Yes;No;Seen;No;No;No;No;Yes
+990;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;No;No
+991;Yes;Yes;Yes;No;Yes;No;No;No;Yes;No
+992;Yes;No;No;Yes;Yes;Yes;No;No;No;No
+993;No;No;No;No;No;No;No;No;Yes;Yes
+994;Yes;No;Yes;Yes;Yes;No;Yes;No;No;No
+995;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes
+996;Yes;Yes;Yes;No;Yes;No;No;No;No;Yes
+997;No;No;Yes;Yes;Yes;No;No;No;Yes;No
+998;No;No;Yes;No;No;Yes;No;Yes;Yes;Yes
+999;No;Yes;No;Yes;No;Yes;No;Yes;Yes;Yes
